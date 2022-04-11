@@ -1,0 +1,16 @@
+{
+  "name": "beep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "sourceType": "module",
+  "scripts": {
+    "start": "vite --open",
+    "build": "vite buiold"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^2.9.1"
+  }
+}
